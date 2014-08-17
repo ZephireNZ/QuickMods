@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "uid":"com.mumfrey.worldeditcui",
-  "repo":"ZephireNZ.QuickMod",
+  "repo": "ZephireNZ.QuickMods",
   "name":"WorldEditCUI",
   "urls":{
     "forum": ["mcf:1292886"],

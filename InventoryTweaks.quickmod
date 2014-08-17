@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "uid":"invtweaks",
-  "repo":"ZephireNZ.QuickMod",
+  "repo": "ZephireNZ.QuickMods",
   "modId":"inventorytweaks",
   "name":"InventoryTweaks",
   "description":"This client mod allows you to easily manage your inventory, in both single player and multiplayer.",

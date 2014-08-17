@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "uid":"mapwriter",
-  "repo":"ZephireNZ.QuickMod",
+  "repo": "ZephireNZ.QuickMods",
   "name":"MapWriter",
   "urls":{
     "forum": ["mcf:1286882"],

@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "uid":"bspkrs.statuseffecthud",
-  "repo":"ZephireNZ.QuickMod",
+  "repo": "ZephireNZ.QuickMods",
   "modId":"StatusEffectHUD",
   "name":"StatusEffectHUD",
   "description":"StatusEffectHUD displays your currently active potions/effects without having to open your inventory!",

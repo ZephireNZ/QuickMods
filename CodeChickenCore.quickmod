@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "uid": "codechicken.core",
-  "repo": "ZephireNZ.QuickMod",
+  "repo": "ZephireNZ.QuickMods",
   "modId": "CodeChickenCore",
   "name": "CodeChickenCore",
   "description": "Core library for all ChickenBones mods",

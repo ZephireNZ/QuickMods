@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "uid":"bspkrs.bspkrscore",
-  "repo":"ZephireNZ.QuickMod",
+  "repo": "ZephireNZ.QuickMods",
   "modId":"bspkrsCore",
   "name":"bspkrsCore",
   "description":"This is a REQUIRED mod in order for any of the other mods to work.  It contains the core shared classes used by all mods I release.  If you don't install it along with any of the other mods here, Minecraft will crash.  You have been warned.",

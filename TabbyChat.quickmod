@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "uid":"acs.tabbychat",
-  "repo":"ZephireNZ.QuickMod",
+  "repo": "ZephireNZ.QuickMods",
   "name":"TabbyChat",
   "urls":{
     "forum": ["mcf:1286567"],

@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "uid":"watson",
-  "repo":"ZephireNZ.QuickMod",
+  "repo": "ZephireNZ.QuickMods",
   "name":"Watson",
   "urls":{
     "source": ["http://github.com/totemo/watson"]

@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "uid":"bspkrs.armorstatushud",
-  "repo":"ZephireNZ.QuickMod",
+  "repo": "ZephireNZ.QuickMods",
   "modId":"ArmorStatusHUD",
   "name":"ArmorStatusHUD",
   "description":"ArmorStatusHUD displays your currently equipped armor and held item along with the durability remaining without having to open your inventory!",

@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "uid":"net.eq2online.macros",
-  "repo":"ZephireNZ.QuickMod",
+  "repo": "ZephireNZ.QuickMods",
   "name":"MacrosMod",
   "urls":{
     "forum": ["mcf:1275039"],

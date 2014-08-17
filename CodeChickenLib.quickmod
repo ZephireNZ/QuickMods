@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "uid":"codechicken.lib",
-  "repo":"ZephireNZ.QuickMod",
+  "repo": "ZephireNZ.QuickMods",
   "modId":"CodeChickenLib",
   "name":"CodeChickenLib",
   "urls":{

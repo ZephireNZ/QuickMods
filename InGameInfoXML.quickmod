@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "uid":"com.github.lunatrius.ingameinfo",
-  "repo":"ZephireNZ.QuickMod",
+  "repo": "ZephireNZ.QuickMods",
   "modId":"InGameInfoXML",
   "name":"InGame Info XML",
   "description":"Ingame Info adds the ability to add lines of information to your in-game screen.",

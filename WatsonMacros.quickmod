@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "uid":"io.totemo.watson.macro",
-  "repo":"ZephireNZ.QuickMod",
+  "repo": "ZephireNZ.QuickMods",
   "name":"WatsonMacros",
   "urls":{
     "source": ["http://github.com/totemo/watson_macros"]

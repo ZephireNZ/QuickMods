@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "uid":"optifine",
-  "repo":"ZephireNZ.QuickMod",
+  "repo": "ZephireNZ.QuickMods",
   "modId":"Optifine",
   "name":"Optifine",
   "description":"This mod adds support for HD textures and a lot of options for better looks and performance. Doubling the FPS is common.",
