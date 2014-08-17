@@ -23,8 +23,8 @@
       "installType":"forgeMod",
       "urls": [
         {
-          "url": "http://adf.ly/q7I9O",
-          "downloadType": "sequential"
+          "url": "http://chickenbones.net/maven/codechicken/NotEnoughItems/1.7.10-1.0.2.15/NotEnoughItems-1.7.10-1.0.2.15-universal.jar",
+          "downloadType": "direct"
         }
       ],
       "references": [
@@ -46,8 +46,8 @@
       "installType":"forgeMod",
       "urls": [
         {
-          "url": "http://adf.ly/q7I9i",
-          "downloadType": "sequential"
+          "url": "http://chickenbones.net/maven/codechicken/NotEnoughItems/1.7.2-1.0.1/NotEnoughItems-1.7.2-1.0.1-universal.jar",
+          "downloadType": "direct"
         }
       ],
       "references": [
