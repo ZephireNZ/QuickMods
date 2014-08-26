@@ -26,13 +26,6 @@
           "url": "http://chickenbones.net/maven/codechicken/CodeChickenCore/1.7.10-1.0.2.9/CodeChickenCore-1.7.10-1.0.2.9-universal.jar",
           "downloadType": "direct"
         }
-      ],
-      "references": [
-        // {
-        //   "uid": "codechicken.lib",
-        //   "version": "",
-        //   "type": "depends"
-        // }
       ]
     },
     {
