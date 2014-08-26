@@ -28,11 +28,11 @@
         }
       ],
       "references": [
-        {
-          "uid": "codechicken.lib",
-          "version": "",
-          "type": "depends"
-        }
+        // {
+        //   "uid": "codechicken.lib",
+        //   "version": "",
+        //   "type": "depends"
+        // }
       ]
     },
     {
