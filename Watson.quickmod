@@ -6,7 +6,7 @@
   "urls":{
     "source": ["http://github.com/totemo/watson"]
   },
-  "updateUrl":"github://ZephireNZ@QuickMods/Watson.quickmod",
+  "updateUrl":"https://rawgit.com/ZephireNZ/QuickMods/master/Watson.quickmod",
   "tags":["Macros", "GUI"],
   "catagories":["Macros", "GUI"],
   "authors":{ "Developer":["totemo"] },

@@ -9,12 +9,12 @@
     "forum": ["mcf:1282347"],
     "source": ["http://github.com/bspkrs/ArmorStatusHUD"]
   },
-  "updateUrl":"github://ZephireNZ@QuickMods/ArmorStatusHUD.quickmod",
+  "updateUrl":"https://rawgit.com/ZephireNZ/QuickMods/master/ArmorStatusHUD.quickmod",
   "tags":["HUD", "GUI"],
   "catagories":["HUD", "GUI"],
   "authors":{ "Developer":["bspkrs"] },
   "references": {
-    "bspkrs.bspkrscore": "github://ZephireNZ@QuickMods/bspkrsCore.quickmod"
+    "bspkrs.bspkrscore": "https://rawgit.com/ZephireNZ/QuickMods/master/bspkrsCore.quickmod"
   },
   "versions":[
     {

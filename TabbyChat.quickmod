@@ -8,7 +8,7 @@
     "source": ["https://github.com/Dykam/tabbychat"],
     "logo": ["http://i.imgur.com/J6LrxIo.png"]
   },
-  "updateUrl":"github://ZephireNZ@QuickMods/TabbyChat.quickmod",
+  "updateUrl":"https://rawgit.com/ZephireNZ/QuickMods/master/TabbyChat.quickmod",
   "tags":["GUI"],
   "catagories":["GUI"],
   "authors":{ "Developer":["RocketMan10404", "Dykam", "Killjoy1221"] },

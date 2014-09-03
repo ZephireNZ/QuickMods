@@ -7,7 +7,7 @@
   "urls":{
     "source": ["http://github.com/Chicken-Bones/CodeChickenLib"]
   },
-  "updateUrl":"github://ZephireNZ@QuickMods/CodeChickenLib.quickmod",
+  "updateUrl":"https://rawgit.com/ZephireNZ/QuickMods/master/CodeChickenLib.quickmod",
   "tags":["Core"],
   "catagories":["Core"],
   "authors":{ "Developer":["ChickenBones"] },

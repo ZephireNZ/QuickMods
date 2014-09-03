@@ -7,7 +7,7 @@
     "forum": ["mcf:1286882"],
     "source": ["https://github.com/daveyliam/mapwriter"]
   },
-  "updateUrl":"github://ZephireNZ@QuickMods/MapWriter.quickmod",
+  "updateUrl":"https://rawgit.com/ZephireNZ/QuickMods/master/MapWriter.quickmod",
   "tags":["GUI"],
   "catagories":["GUI"],
   "authors":{ "Developer":["daveyliam", "prasinoulhs"] },

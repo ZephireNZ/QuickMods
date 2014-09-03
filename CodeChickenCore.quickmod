@@ -9,12 +9,12 @@
     "forum": ["mcf:1279956"],
     "source": ["http://github.com/Chicken-Bones/CodeChickenCore"]
   },
-  "updateUrl": "github://ZephireNZ@QuickMods/CodeChickenCore.quickmod",
+  "updateUrl": "https://rawgit.com/ZephireNZ/QuickMods/master/CodeChickenCore.quickmod",
   "tags": ["Core"],
   "catagories": ["Core"],
   "authors": { "Developer": ["ChickenBones"] },
   "references": {
-    "codechicken.lib": "github://ZephireNZ@QuickMods/CodeChickenLib.quickmod"
+    "codechicken.lib": "https://rawgit.com/ZephireNZ/QuickMods/master/CodeChickenLib.quickmod"
   },
   "versions": [
     {

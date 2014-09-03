@@ -4,7 +4,7 @@
   "repo": "ZephireNZ.QuickMods",
   "modId": "voxelmenu",
   "name": "VoxelMenu",
-  "updateUrl": "github://ZephireNZ@QuickMods/VoxelMenu.quickmod",
+  "updateUrl": "https://rawgit.com/ZephireNZ/QuickMods/master/VoxelMenu.quickmod",
   "tags": ["GUI"],
   "categories": ["GUI"],
   "authors": {"Developer": ["Mumfrey"]},

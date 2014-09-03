@@ -7,7 +7,7 @@
     "logo": ["http://ha3.eu/public/mc-mods/branding/presencefootsteps.png"],
     "website": ["mcf:1290546"]
   },
-  "updateUrl": "github://ZephireNZ@QuickMods/PresenceFootsteps.quickmod",
+  "updateUrl": "https://rawgit.com/ZephireNZ/QuickMods/master/PresenceFootsteps.quickmod",
   "tags": ["Sound"],
   "categories": ["Sound"],
   "authors": {"Developer": ["Hurricaaane"]},

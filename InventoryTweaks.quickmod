@@ -10,7 +10,7 @@
     "source": ["http://github.com/Kobata/inventory-tweaks"],
     "logo": ["http://modding.kalam-alami.net/img/invtweaks.png"]
   },
-  "updateUrl":"github://ZephireNZ@QuickMods/InventoryTweaks.quickmod",
+  "updateUrl":"https://rawgit.com/ZephireNZ/QuickMods/master/InventoryTweaks.quickmod",
   "tags":["GUI"],
   "catagories":["GUI"],
   "authors":{ "Developer":["Kobata"] },

@@ -8,7 +8,7 @@
     "source": ["https://github.com/Mumfrey/WorldEditCUI"],
     "logo": ["http://eq2.co.uk/minecraft/mods/forumimages/wecui_header.png"]
   },
-  "updateUrl":"github://ZephireNZ@QuickMods/WorldEditCUI.quickmod",
+  "updateUrl":"https://rawgit.com/ZephireNZ/QuickMods/master/WorldEditCUI.quickmod",
   "tags":["GUI"],
   "catagories":["GUI"],
   "authors":{ "Developer":["Mumfrey", "yetanotherx", "lahwran"] },

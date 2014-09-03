@@ -8,7 +8,7 @@
   "urls":{
     "forum": ["mcf:1272953"]
   },
-  "updateUrl":"github://ZephireNZ@QuickMods/Optifine.quickmod",
+  "updateUrl":"https://rawgit.com/ZephireNZ/QuickMods/master/Optifine.quickmod",
   "tags":["GUI"],
   "catagories":["GUI"],
   "authors":{ "Developer":["sp614x"] },

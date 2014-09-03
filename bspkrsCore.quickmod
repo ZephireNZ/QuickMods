@@ -9,7 +9,7 @@
     "forum": ["mcf:1282347"],
     "source": ["http://github.com/bspkrs/bspkrsCore"]
   },
-  "updateUrl":"github://ZephireNZ@QuickMods/bspkrsCore.quickmod",
+  "updateUrl":"https://rawgit.com/ZephireNZ/QuickMods/master/bspkrsCore.quickmod",
   "tags":["API", "Core"],
   "catagories":["API", "Core"],
   "authors":{ "Developer":["bspkrs"] },
