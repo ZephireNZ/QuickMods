@@ -9,7 +9,7 @@
     "forum": ["mcf:1296949"],
     "source": ["http://github.com/Lunatrius/InGame-Info-XML"]
   },
-  "updateUrl":"https://rawgit.com/ZephireNZ/QuickMods/master/Schematica.quickmod",
+  "updateUrl":"https://rawgit.com/ZephireNZ/QuickMods/master/InGameInfoXML.quickmod",
   "authors":{ "Developer":["Lunatrius"] },
   "tags": ["GUI"],
   "catagories": ["GUI"],
