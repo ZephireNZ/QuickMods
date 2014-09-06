@@ -6,7 +6,7 @@
   "name": "CodeChickenCore",
   "description": "Core library for all ChickenBones mods",
   "urls": {
-    "forum": ["mcf:1279956"],
+    "forum": ["http://www.minecraftforum.net/forums/thread/1279956"],
     "source": ["http://github.com/Chicken-Bones/CodeChickenCore"]
   },
   "updateUrl": "https://rawgit.com/ZephireNZ/QuickMods/master/CodeChickenCore.quickmod",

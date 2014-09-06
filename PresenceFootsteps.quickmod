@@ -5,7 +5,7 @@
   "name": "PresenceFootsteps",
   "urls": {
     "logo": ["http://ha3.eu/public/mc-mods/branding/presencefootsteps.png"],
-    "website": ["mcf:1290546"]
+    "website": ["http://www.minecraftforum.net/forums/thread/1290546"]
   },
   "updateUrl": "https://rawgit.com/ZephireNZ/QuickMods/master/PresenceFootsteps.quickmod",
   "tags": ["Sound"],

@@ -6,7 +6,7 @@
   "name":"Optifine",
   "description":"This mod adds support for HD textures and a lot of options for better looks and performance. Doubling the FPS is common.",
   "urls":{
-    "forum": ["mcf:1272953"]
+    "forum": ["http://www.minecraftforum.net/forums/thread/1272953"]
   },
   "updateUrl":"https://rawgit.com/ZephireNZ/QuickMods/master/Optifine.quickmod",
   "tags":["GUI"],

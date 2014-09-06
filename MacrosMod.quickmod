@@ -4,7 +4,7 @@
   "repo": "ZephireNZ.QuickMods",
   "name":"MacrosMod",
   "urls":{
-    "forum": ["mcf:1275039"],
+    "forum": ["http://www.minecraftforum.net/forums/thread/1275039"],
     "logo": ["http://eq2.co.uk/minecraft/mods/forumimages/header.png"]
   },
   "updateUrl":"https://rawgit.com/ZephireNZ/QuickMods/master/MacrosMod.quickmod",

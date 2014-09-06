@@ -4,7 +4,7 @@
   "repo": "ZephireNZ.QuickMods",
   "name":"TabbyChat",
   "urls":{
-    "forum": ["mcf:1286567"],
+    "forum": ["http://www.minecraftforum.net/forums/thread/1286567"],
     "source": ["https://github.com/Dykam/tabbychat"],
     "logo": ["http://i.imgur.com/J6LrxIo.png"]
   },

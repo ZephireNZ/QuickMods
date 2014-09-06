@@ -6,7 +6,7 @@
   "name":"Schematica",
   "description":"With this mod you're able to display a ghost image of a schematic file inside Minecraft to rebuild a structure or export any part of your world (or a server's world) into a schematic file. You're able to export parts of your world, too!",
   "urls":{
-    "forum": ["mcf:1285818"],
+    "forum": ["http://www.minecraftforum.net/forums/thread/1285818"],
     "source": ["http://github.com/Lunatrius/Schematica"]
   },
   "updateUrl":"https://rawgit.com/ZephireNZ/QuickMods/master/Schematica.quickmod",

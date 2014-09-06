@@ -6,7 +6,7 @@
   "name":"InventoryTweaks",
   "description":"This client mod allows you to easily manage your inventory, in both single player and multiplayer.",
   "urls":{
-    "forum": ["mcf:1288184"],
+    "forum": ["http://www.minecraftforum.net/forums/thread/1288184"],
     "source": ["http://github.com/Kobata/inventory-tweaks"],
     "logo": ["http://modding.kalam-alami.net/img/invtweaks.png"]
   },

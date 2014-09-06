@@ -4,7 +4,7 @@
   "repo": "ZephireNZ.QuickMods",
   "name":"MapWriter",
   "urls":{
-    "forum": ["mcf:1286882"],
+    "forum": ["http://www.minecraftforum.net/forums/thread/1286882"],
     "source": ["https://github.com/daveyliam/mapwriter"]
   },
   "updateUrl":"https://rawgit.com/ZephireNZ/QuickMods/master/MapWriter.quickmod",
