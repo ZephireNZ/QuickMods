@@ -14,13 +14,23 @@
   "authors":{ "Developer":["RocketMan10404", "Dykam", "Killjoy1221"] },
   "versions":[
     {
-      "mcCompat":["1.7.2"],
-      "name":"1.11.0.1-d254306",
-      "type":"Release",
+      "mcCompat":["1.7.10"],
+      "name":"1.11.1.65",
       "installType":"liteloaderMod",
       "urls": [
         {
-          "url": "https://raw.githubusercontent.com/ZephireNZ/QuickMods/master/files/tabbychat-1.11.0.1-d254306.litemod",
+          "url": "https://www.dropbox.com/s/69pty6g2n6fyqen/TabbyChat-1.7.10-1.11.1.65-liteloader.litemod?dl=1",
+          "downloadType": "direct"
+        }
+      ]
+    },
+    {
+      "mcCompat":["1.7.2"],
+      "name":"1.11.1.65",
+      "installType":"liteloaderMod",
+      "urls": [
+        {
+          "url": "https://www.dropbox.com/s/mhylinfa8wilwap/TabbyChat-1.7.2-1.11.1.65-liteloader.litemod?dl=1",
           "downloadType": "direct"
         }
       ]

@@ -32,11 +32,6 @@
           "uid": "codechicken.core",
           "version": "[1.0.1.6,)",
           "type": "depends"
-        },
-        {
-          "uid": "codechicken.lib",
-          "version": "",
-          "type": "depends"
         }
       ]
     },
@@ -54,11 +49,6 @@
         {
           "uid": "codechicken.core",
           "version": "[1.0.0,)",
-          "type": "depends"
-        },
-        {
-          "uid": "codechicken.lib",
-          "version": "",
           "type": "depends"
         }
       ]
