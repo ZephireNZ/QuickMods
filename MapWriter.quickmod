@@ -15,7 +15,7 @@
     {
       "forgeCompat": "[10.13.0.1152,)",
       "mcCompat":["1.7.10"],
-      "name":"2.1.2",
+      "version":"2.1.2",
       "installType":"forgeMod",
       "urls": [
         {

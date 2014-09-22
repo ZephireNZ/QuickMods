@@ -15,8 +15,8 @@
     {
       "mcCompat": ["1.7.10"],
       "installType": "extract",
-      "name": "r4",
       "version": "4",
+      "name": "r4",
       "urls": [
         {
           "url": "http://cdn.ha3.eu/minecraft/collections/presencefootsteps/bin/PresenceFootsteps_r5b__1_7_10.zip",
@@ -27,8 +27,8 @@
     {
       "mcCompat": ["1.7.2"],
       "installType": "extract",
-      "name": "r4",
       "version": "4",
+      "name": "r4",
       "urls": [
         {
           "url": "http://cdn.ha3.eu/minecraft/collections/presencefootsteps/bin/PresenceFootsteps_r4__1_7_2.zip",

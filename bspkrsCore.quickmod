@@ -16,7 +16,7 @@
   "versions":[
     {
       "mcCompat":["1.7.10"],
-      "name":"6.14",
+      "version":"6.14",
       "installType":"forgeMod",
       "forgeCompat": "[10.13.0.1183,)",
       "urls": [
@@ -28,7 +28,7 @@
     },
     {
       "mcCompat":["1.7.10"],
-      "name":"6.13",
+      "version":"6.13",
       "installType":"forgeMod",
       "forgeCompat": "[10.13.0.1151,)",
       "urls": [
@@ -40,7 +40,7 @@
     },
     {
       "mcCompat":["1.7.2"],
-      "name":"6.9",
+      "version":"6.9",
       "installType":"forgeMod",
       "forgeCompat": "[10.12.0.1056,)",
       "urls": [
@@ -52,7 +52,7 @@
     },
     {
       "mcCompat":["1.7.2"],
-      "name":"6.8",
+      "version":"6.8",
       "installType":"forgeMod",
       "urls": [
         {

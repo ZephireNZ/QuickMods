@@ -14,7 +14,7 @@
   "versions":[
     {
       "mcCompat":["1.7.10"],
-      "name":"0.10.12",
+      "version":"0.10.12",
       "installType":"liteloaderMod",
       "urls": [
         {
@@ -25,7 +25,7 @@
     },
     {
       "mcCompat":["1.7.2"],
-      "name":"0.10.04",
+      "version":"0.10.04",
       "installType":"liteloaderMod",
       "urls": [
         {

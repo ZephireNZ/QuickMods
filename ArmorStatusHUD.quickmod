@@ -20,7 +20,7 @@
     {
       "forgeCompat": "[10.13.0.1151,)",
       "mcCompat":["1.7.10"],
-      "name":"1.27",
+      "version":"1.27",
       "installType":"forgeMod",
       "urls": [
         {
@@ -38,7 +38,7 @@
     },
     {
       "mcCompat":["1.7.2"],
-      "name":"1.26",
+      "version":"1.26",
       "installType":"forgeMod",
       "urls": [
         {
@@ -56,7 +56,7 @@
     },
     {
       "mcCompat":["1.7.2"],
-      "name":"1.25",
+      "version":"1.25",
       "installType":"forgeMod",
       "urls": [
         {
