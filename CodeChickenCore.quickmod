@@ -13,9 +13,6 @@
   "tags": ["Core"],
   "catagories": ["Core"],
   "authors": { "Developer": ["ChickenBones"] },
-  "references": {
-    "codechicken.lib": "https://rawgit.com/ZephireNZ/QuickMods/master/CodeChickenLib.quickmod"
-  },
   "versions": [
     {
       "mcCompat": ["1.7.10"],

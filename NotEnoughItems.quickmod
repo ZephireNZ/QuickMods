@@ -13,8 +13,7 @@
   "catagories":["GUI"],
   "authors":{ "Developer":["ChickenBones"] },
   "references": {
-    "codechicken.core": "https://rawgit.com/ZephireNZ/QuickMods/master/CodeChickenCore.quickmod",
-    "codechicken.lib": "https://rawgit.com/ZephireNZ/QuickMods/master/CodeChickenLib.quickmod"
+    "codechicken.core": "https://rawgit.com/ZephireNZ/QuickMods/master/CodeChickenCore.quickmod"
   },
   "versions": [
     {
