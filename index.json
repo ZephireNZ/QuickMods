@@ -51,10 +51,6 @@
       "url": "NotEnoughItems.quickmod"
     },
     {
-      "uid": "codechicken.lib",
-      "url": "CodeChickenLib.quickmod"
-    },
-    {
       "uid": "acs.tabbychat",
       "url": "TabbyChat.quickmod"
     },
