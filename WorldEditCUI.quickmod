@@ -14,7 +14,6 @@
   "authors":{ "Developer":["Mumfrey", "yetanotherx", "lahwran"] },
   "versions":[
     {
-      "mcCompat":["1.7.10"],
       "version":"1.7.10.00",
       "installType":"liteloaderMod",
       "urls": [
@@ -22,16 +21,39 @@
           "url": "http://eq2.co.uk/minecraft/mods/thirdparty/mod_worldeditcui_1.7.10_00_mc1.7.10.litemod",
           "downloadType": "direct"
         }
+      ],
+      "references": [
+        {
+          "uid": "net.minecraft",
+          "version": "1.7.10",
+          "type": "depends"
+        },
+        {
+          "uid": "com.mumfrey.liteloader",
+          "version": "1.7.10_03",
+          "type": "depends"
+        }
       ]
     },
     {
-      "mcCompat":["1.7.2"],
       "version":"1.7.2.02",
       "installType":"liteloaderMod",
       "urls": [
         {
           "url": "http://eq2.co.uk/minecraft/mods/thirdparty/mod_worldeditcui_1.7.2_02_lite_mc1.7.2.litemod",
           "downloadType": "direct"
+        }
+      ],
+      "references": [
+        {
+          "uid": "net.minecraft",
+          "version": "1.7.2",
+          "type": "depends"
+        },
+        {
+          "uid": "com.mumfrey.liteloader",
+          "version": "1.7.2_05",
+          "type": "depends"
         }
       ]
     }

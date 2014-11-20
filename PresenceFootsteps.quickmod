@@ -13,19 +13,29 @@
   "authors": {"Developer": ["Hurricaaane"]},
   "versions": [
     {
-      "mcCompat": ["1.7.10"],
       "installType": "extract",
-      "version": "4",
-      "name": "r4",
+      "version": "5.1",
+      "name": "r5b",
       "urls": [
         {
           "url": "http://cdn.ha3.eu/minecraft/collections/presencefootsteps/bin/PresenceFootsteps_r5b__1_7_10.zip",
           "downloadType": "direct"
         }
+      ],
+      "references": [
+        {
+          "uid": "net.minecraft",
+          "version": "1.7.10",
+          "type": "depends"
+        },
+        {
+          "uid": "com.mumfrey.liteloader",
+          "version": "1.7.10_03",
+          "type": "depends"
+        }
       ]
     },
     {
-      "mcCompat": ["1.7.2"],
       "installType": "extract",
       "version": "4",
       "name": "r4",
@@ -33,6 +43,23 @@
         {
           "url": "http://cdn.ha3.eu/minecraft/collections/presencefootsteps/bin/PresenceFootsteps_r4__1_7_2.zip",
           "downloadType": "direct"
+        }
+      ],
+      "references": [
+        {
+          "uid": "net.minecraft",
+          "version": "1.7.2",
+          "type": "depends"
+        },
+        {
+          "uid": "com.mumfrey.liteloader",
+          "version": "1.7.2_05",
+          "type": "depends"
+        },
+        {
+          "uid": "net.minecraftforge",
+          "version": "[10.12.0.1024,10.12.2.1147)",
+          "type": "depends"
         }
       ]
     }

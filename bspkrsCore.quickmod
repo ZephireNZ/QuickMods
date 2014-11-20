@@ -15,49 +15,90 @@
   "authors":{ "Developer":["bspkrs"] },
   "versions":[
     {
-      "mcCompat":["1.7.10"],
       "version":"6.14",
       "installType":"forgeMod",
-      "forgeCompat": "[10.13.0.1183,)",
       "urls": [
         {
           "url": "http://bspk.rs/MC/bspkrsCore/[1.7.10]bspkrsCore-universal-6.14.jar",
           "downloadType": "direct"
         }
+      ],
+      "references": [
+        {
+          "uid": "net.minecraft",
+          "version": "1.7.10",
+          "type": "depends"
+        },
+        {
+          "uid": "net.minecraftforge",
+          "version": "[10.13.0.1183,)",
+          "type": "depends"
+        }
       ]
     },
     {
-      "mcCompat":["1.7.10"],
       "version":"6.13",
       "installType":"forgeMod",
-      "forgeCompat": "[10.13.0.1151,)",
       "urls": [
         {
           "url": "http://bspk.rs/MC/bspkrsCore/[1.7.10]bspkrsCore-universal-6.13.jar",
           "downloadType": "direct"
         }
+      ],
+      "references": [
+        {
+          "uid": "net.minecraft",
+          "version": "1.7.10",
+          "type": "depends"
+        },
+        {
+          "uid": "net.minecraftforge",
+          "version": "[10.13.0.1151,)",
+          "type": "depends"
+        }
       ]
     },
     {
-      "mcCompat":["1.7.2"],
       "version":"6.9",
       "installType":"forgeMod",
-      "forgeCompat": "[10.12.0.1056,)",
       "urls": [
         {
           "url": "http://bspk.rs/MC/bspkrsCore/[1.7.2]bspkrsCore-universal-6.9.jar",
           "downloadType": "direct"
         }
+      ],
+      "references": [
+        {
+          "uid": "net.minecraft",
+          "version": "1.7.2",
+          "type": "depends"
+        },
+        {
+          "uid": "net.minecraftforge",
+          "version": "[10.12.0.1056,)",
+          "type": "depends"
+        }
       ]
     },
     {
-      "mcCompat":["1.7.2"],
       "version":"6.8",
       "installType":"forgeMod",
       "urls": [
         {
           "url": "http://bspk.rs/MC/bspkrsCore/[1.7.2]bspkrsCore-universal-6.8(1.7.2).jar",
           "downloadType": "direct"
+        }
+      ],
+      "references": [
+        {
+          "uid": "net.minecraft",
+          "version": "1.7.10",
+          "type": "depends"
+        },
+        {
+          "uid": "net.minecraftforge",
+          "version": "[10.12.0.1056,)",
+          "type": "depends"
         }
       ]
     }

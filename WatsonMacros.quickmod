@@ -12,12 +12,33 @@
   "authors":{ "Developer":["totemo"] },
   "versions":[
     {
-      "mcCompat":["1.7.10"],
       "version":"0.8.0",
       "installType":"liteloaderMod",
       "urls": [
         {
           "url": "https://github.com/totemo/watson_macros/releases/download/0.8.0-1.7.10/mod_watson_macros_0.8.0_mc1.7.10.litemod"
+        }
+      ],
+      "references": [
+        {
+          "uid": "watson",
+          "version": "0.8.0",
+          "type": "depends"
+        },
+        {
+          "uid": "net.eq2online.macros",
+          "version": "[0.10.12,)",
+          "type": "depends"
+        }
+        {
+          "uid": "net.minecraft",
+          "version": "1.7.10",
+          "type": "depends"
+        },
+        {
+          "uid": "com.mumfrey.liteloader",
+          "version": "1.7.10_03",
+          "type": "depends"
         }
       ]
     }

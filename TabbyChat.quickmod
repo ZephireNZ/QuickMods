@@ -14,7 +14,6 @@
   "authors":{ "Developer":["RocketMan10404", "Dykam", "Killjoy1221"] },
   "versions":[
     {
-      "mcCompat":["1.7.10"],
       "version":"1.11.1.65",
       "installType":"liteloaderMod",
       "urls": [
@@ -22,16 +21,39 @@
           "url": "https://www.dropbox.com/s/69pty6g2n6fyqen/TabbyChat-1.7.10-1.11.1.65-liteloader.litemod?dl=1",
           "downloadType": "direct"
         }
+      ],
+      "references": [
+        {
+          "uid": "net.minecraft",
+          "version": "1.7.10",
+          "type": "depends"
+        },
+        {
+          "uid": "com.mumfrey.liteloader",
+          "version": "1.7.10_03",
+          "type": "depends"
+        }
       ]
     },
     {
-      "mcCompat":["1.7.2"],
       "version":"1.11.1.65",
       "installType":"liteloaderMod",
       "urls": [
         {
           "url": "https://www.dropbox.com/s/mhylinfa8wilwap/TabbyChat-1.7.2-1.11.1.65-liteloader.litemod?dl=1",
           "downloadType": "direct"
+        }
+      ],
+      "references": [
+        {
+          "uid": "net.minecraft",
+          "version": "1.7.2",
+          "type": "depends"
+        },
+        {
+          "uid": "com.mumfrey.liteloader",
+          "version": "1.7.2_05",
+          "type": "depends"
         }
       ]
     }

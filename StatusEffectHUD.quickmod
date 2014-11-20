@@ -18,8 +18,6 @@
   },
   "versions":[
     {
-      "forgeCompat": "[10.13.0.1151,)",
-      "mcCompat":["1.7.10"],
       "version":"1.26",
       "installType":"forgeMod",
       "urls": [
@@ -33,11 +31,20 @@
           "uid": "bspkrs.bspkrscore",
           "version": "[6.12,)",
           "type": "depends"
+        },
+        {
+          "uid": "net.minecraft",
+          "version": "1.7.10",
+          "type": "depends"
+        },
+        {
+          "uid": "net.minecraftforge",
+          "version": "[10.13.0.1151,)",
+          "type": "depends"
         }
       ]
     },
     {
-      "mcCompat":["1.7.2"],
       "version":"1.25",
       "installType":"forgeMod",
       "urls": [
@@ -51,11 +58,20 @@
           "uid": "bspkrs.bspkrscore",
           "version": "[6.9,)",
           "type": "depends"
+        },
+        {
+          "uid": "net.minecraft",
+          "version": "1.7.2",
+          "type": "depends"
+        },
+        {
+          "uid": "net.minecraftforge",
+          "version": "[10.12.0.1024,)",
+          "type": "depends"
         }
       ]
     },
     {
-      "mcCompat":["1.7.2"],
       "version":"1.24",
       "installType":"forgeMod",
       "urls": [
@@ -68,6 +84,16 @@
         {
           "uid": "bspkrs.bspkrscore",
           "version": "[6.5,)",
+          "type": "depends"
+        },
+        {
+          "uid": "net.minecraft",
+          "version": "1.7.2",
+          "type": "depends"
+        },
+        {
+          "uid": "net.minecraftforge",
+          "version": "[10.12.0.1024,)",
           "type": "depends"
         }
       ]

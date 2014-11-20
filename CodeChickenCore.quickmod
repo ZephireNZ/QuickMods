@@ -15,7 +15,6 @@
   "authors": { "Developer": ["ChickenBones"] },
   "versions": [
     {
-      "mcCompat": ["1.7.10"],
       "version": "1.0.2.9",
       "installType": "forgeMod",
       "urls": [
@@ -23,16 +22,39 @@
           "url": "http://chickenbones.net/maven/codechicken/CodeChickenCore/1.7.10-1.0.2.9/CodeChickenCore-1.7.10-1.0.2.9-universal.jar",
           "downloadType": "direct"
         }
+      ],
+      "references": [
+        {
+          "uid": "net.minecraft",
+          "version": "1.7.10",
+          "type": "depends"
+        },
+        {
+          "uid": "net.minecraftforge",
+          "version": "[10.13.0.1151,)",
+          "type": "depends"
+        }
       ]
     },
     {
-      "mcCompat": ["1.7.2"],
       "version": "1.0.0",
       "installType": "forgeMod",
       "urls": [
         {
           "url":  "http://chickenbones.net/maven/codechicken/CodeChickenCore/1.7.2-1.0.2.10/CodeChickenCore-1.7.2-1.0.2.10-universal.jar",
           "downloadType": "direct"
+        }
+      ],
+      "references": [
+        {
+          "uid": "net.minecraft",
+          "version": "1.7.2",
+          "type": "depends"
+        },
+        {
+          "uid": "net.minecraftforge",
+          "version": "[10.12.0.1054,10.12.2.1147)",
+          "type": "depends"
         }
       ]
     }

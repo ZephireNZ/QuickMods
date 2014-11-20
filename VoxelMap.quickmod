@@ -15,7 +15,6 @@
   "authors": {"Developer": ["MamiyaOtaru"]},
   "versions": [
     {
-      "mcCompat": ["1.7.10"],
       "installType": "liteloaderMod",
       "version": "1.2.3",
       "urls": [
@@ -23,16 +22,39 @@
           "url": "http://repo.voxelmodpack.com/voxelmodpack/12.1/common/mod_voxelMap_1.2.3_for_1.7.10.litemod",
           "downloadType": "parallel"
         }
+      ],
+      "references": [
+        {
+          "uid": "net.minecraft",
+          "version": "1.7.10",
+          "type": "depends"
+        },
+        {
+          "uid": "com.mumfrey.liteloader",
+          "version": "1.7.10_03",
+          "type": "depends"
+        }
       ]
     },
     {
-      "mcCompat": ["1.7.2"],
       "installType": "forgeMod",
       "version": "1.0",
       "urls": [
         {
           "url": "http://www.mediafire.com/download/8tjjxvghv3jpv18/voxelmap-1.7.2-1.0.jar",
           "downloadType": "parallel"
+        }
+      ],
+      "references": [
+        {
+          "uid": "net.minecraft",
+          "version": "1.7.2",
+          "type": "depends"
+        },
+        {
+          "uid": "com.mumfrey.liteloader",
+          "version": "1.7.2_05",
+          "type": "depends"
         }
       ]
     }

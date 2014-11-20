@@ -18,10 +18,8 @@
   },
   "versions":[
     {
-      "mcCompat":["1.7.10"],
       "version":"2.8.1.61",
       "installType":"forgeMod",
-      "forgeCompat": "[10.13.0.1185,)",
       "urls": [
         {
           "url": "http://mc.lunatri.us/files/com.github.lunatrius/InGameInfoXML/1.7.10-2.8.1.61/InGameInfoXML-1.7.10-2.8.1.61-universal.jar",
@@ -30,6 +28,16 @@
       ],
       "references": [
         {
+          "uid": "net.minecraft",
+          "version": "1.7.10",
+          "type": "depends"
+        },
+        {
+          "uid": "net.minecraftforge",
+          "version": "[10.13.0.1185,)",
+          "type": "depends"
+        },
+        {
           "uid": "com.github.lunatrius.core",
           "version": "[1.1.2.11,)",
           "type": "depends"
@@ -37,10 +45,8 @@
       ]
     },
     {
-      "mcCompat":["1.7.10"],
       "version":"2.8.0.59",
       "installType":"forgeMod",
-      "forgeCompat": "[10.13.0.1185,)",
       "urls": [
         {
           "url": "http://mc.lunatri.us/files/com.github.lunatrius/InGameInfoXML/1.7.10-2.8.0.59/InGameInfoXML-1.7.10-2.8.0.59-universal.jar",
@@ -49,6 +55,16 @@
       ],
       "references": [
         {
+          "uid": "net.minecraft",
+          "version": "1.7.10",
+          "type": "depends"
+        },
+        {
+          "uid": "net.minecraftforge",
+          "version": "[10.13.0.1185,)",
+          "type": "depends"
+        },
+        {
           "uid": "com.github.lunatrius.core",
           "version": "[1.1.2.11,)",
           "type": "depends"
@@ -56,10 +72,8 @@
       ]
     },
     {
-      "mcCompat":["1.7.10"],
       "version":"2.8.0.58",
       "installType":"forgeMod",
-      "forgeCompat": "[10.13.0.1185,)",
       "urls": [
         {
           "url": "http://mc.lunatri.us/files/com.github.lunatrius/InGameInfoXML/1.7.10-2.8.0.58/InGameInfoXML-1.7.10-2.8.0.58-universal.jar",
@@ -68,6 +82,16 @@
       ],
       "references": [
         {
+          "uid": "net.minecraft",
+          "version": "1.7.10",
+          "type": "depends"
+        },
+        {
+          "uid": "net.minecraftforge",
+          "version": "[10.13.0.1185,)",
+          "type": "depends"
+        },
+        {
           "uid": "com.github.lunatrius.core",
           "version": "[1.1.2.11,)",
           "type": "depends"
@@ -75,10 +99,8 @@
       ]
     },
     {
-      "mcCompat":["1.7.2"],
       "version":"2.6.2.48",
       "installType":"forgeMod",
-      "forgeCompat": "[10.12.0.1056,)",
       "urls": [
         {
           "url": "http://mc.lunatri.us/files/com.github.lunatrius/InGameInfoXML/1.7.2-2.6.2.48/InGameInfoXML-1.7.2-2.6.2.48-client.jar",
@@ -87,6 +109,16 @@
       ],
       "references": [
         {
+          "uid": "net.minecraft",
+          "version": "1.7.2",
+          "type": "depends"
+        },
+        {
+          "uid": "net.minecraftforge",
+          "version": "[10.12.0.1056,10.12.2.1147)",
+          "type": "depends"
+        },
+        {
           "uid": "com.github.lunatrius.core",
           "version": "[1.0.2.7,)",
           "type": "depends"
@@ -94,7 +126,6 @@
       ]
     },
     {
-      "mcCompat":["1.7.2"],
       "version":"2.6.0.44",
       "installType":"forgeMod",
       "urls": [
@@ -105,6 +136,16 @@
       ],
       "references": [
         {
+          "uid": "net.minecraft",
+          "version": "1.7.2",
+          "type": "depends"
+        },
+        {
+          "uid": "net.minecraftforge",
+          "version": "[10.12.0.1056,10.12.2.1147)",
+          "type": "depends"
+        },
+        {
           "uid": "com.github.lunatrius.core",
           "version": "[1.0.2.7,)",
           "type": "depends"
@@ -112,7 +153,6 @@
       ]
     },
     {
-      "mcCompat":["1.7.2"],
       "version":"2.6.0.45",
       "installType":"forgeMod",
       "urls": [
@@ -122,6 +162,16 @@
         }
       ],
       "references": [
+        {
+          "uid": "net.minecraft",
+          "version": "1.7.2",
+          "type": "depends"
+        },
+        {
+          "uid": "net.minecraftforge",
+          "version": "[10.12.0.1056,10.12.2.1147)",
+          "type": "depends"
+        },
         {
           "uid": "com.github.lunatrius.core",
           "version": "[1.0.2.7,)",

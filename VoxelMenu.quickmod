@@ -10,13 +10,24 @@
   "authors": {"Developer": ["Mumfrey"]},
   "versions": [
     {
-      "mcCompat": ["1.7.10"],
       "installType": "liteloaderMod",
       "version": "4.1.3",
       "urls": [
         {
           "url": "http://repo.voxelmodpack.com/voxelmodpack/12.1/voxelmodpack/mod_voxelmenu_4.1.3_mc1.7.10.litemod",
           "downloadType": "parallel"
+        }
+      ],
+      "references": [
+        {
+          "uid": "net.minecraft",
+          "version": "1.7.10",
+          "type": "depends"
+        },
+        {
+          "uid": "com.mumfrey.liteloader",
+          "version": "1.7.10_03",
+          "type": "depends"
         }
       ]
     }

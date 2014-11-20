@@ -12,12 +12,23 @@
   "authors":{ "Developer":["totemo"] },
   "versions":[
     {
-      "mcCompat":["1.7.10"],
       "version":"0.8.0",
       "installType":"liteloaderMod",
       "urls": [
         {
           "url": "https://github.com/totemo/watson/releases/download/0.8.0-1.7.10/mod_watson_0.8.0_mc1.7.10.litemod"
+        }
+      ],
+      "references": [
+        {
+          "uid": "net.minecraft",
+          "version": "1.7.10",
+          "type": "depends"
+        },
+        {
+          "uid": "com.mumfrey.liteloader",
+          "version": "1.7.10_03",
+          "type": "depends"
         }
       ]
     }
